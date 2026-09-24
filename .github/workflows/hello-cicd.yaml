@@ -6,8 +6,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Print message
-        run: echo "Hello from GitHub Actions!"
+        run: echo "Hello from Ananya  Actions!"
       - name: Show date
         run: date
       - name: Show operating system
-        run: hello -a
+        run: uname -a
