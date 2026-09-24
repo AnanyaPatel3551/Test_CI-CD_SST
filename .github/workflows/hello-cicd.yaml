@@ -10,4 +10,4 @@ jobs:
       - name: Show date
         run: date
       - name: Show operating system
-        run: hello 
+        run: hello -a
